@@ -2,10 +2,8 @@
 
 ## ✨Cool Projects 
 
--a href="https://github.com/hishamnawaz/automated-obstacle-avoider.git"> Automated object detection and obstacle avoidance</a> - A robot which can move and detect objects and obstacles in it's path as it avoids collision during motion
 <!--
-**hishamnawaz/hishamnawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-a href="https://github.com/hishamnawaz/automated-obstacle-avoider.git"> Automated object detection and obstacle avoidance</a> - A robot which can move and detect objects and obstacles in it's path as it avoids collision during motion
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
