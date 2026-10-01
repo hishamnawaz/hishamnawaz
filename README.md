@@ -14,7 +14,15 @@
 
 ## Tech Stack:
 
-![Python](https://shields.io) ![C](https://shields.io) ![NumPy](https://shields.io) ![OpenCV](https://shields.io) ![YOLOv8](https://shields.io) ![Webots](https://shields.io🤖-blue?style=for-the-badge&v=1) ![Git](https://shields.io)
+## Tech Stack:
+
+![Python](https://shields.io)
+![C](https://shields.io)
+![NumPy](https://shields.io)
+![OpenCV](https://shields.io)
+![Git](https://shields.io)
+![Webots](https://shields.io🤖--blue?style=for-the-badge)
+
 
 ---
 ## ✨Cool Projects 
