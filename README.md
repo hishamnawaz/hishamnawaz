@@ -1,11 +1,10 @@
 <p align="center">
-  <h1>Hi, I'm Hisham Nawaz </h1>
+  <h1>Hi, I'm Hisham Nawaz 👋</h1>
   <p>Robotics & Computer Vision Enthusiast</p>
-  <!-- Quick Contact Links -->
-  <a href="mailto:nawazhisham8@gmail.com">
-    <img src="https://shields.io" alt="Email Me" />
-  </a>
+  <!-- Plain Text Quick Contact Link -->
+  <p>📬 <b>Reach me at:</b> <a href="mailto:nawazhisham8@gmail.com">nawazhisham8@gmail.com</a></p>
 </p>
+
 ## ✨Cool Projects 
 Done:
 - <a href="https://github.com/hishamnawaz/automated-obstacle-avoider.git"> Automated object detection and obstacle avoidance</a> - A robot which can move and detect objects and obstacles in it's path as it avoids collision during motion
