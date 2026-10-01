@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hi, I'm Hisham Nawaz 👋</h1>
+  <h1>Hi, I'm Hisham Nawaz </h1>
   <p>Robotics & Computer Vision Enthusiast</p>
   <!-- Plain Text Quick Contact Link -->
   <p>📬 <b>Reach me at:</b> <a href="mailto:nawazhisham8@gmail.com">nawazhisham8@gmail.com</a></p>
