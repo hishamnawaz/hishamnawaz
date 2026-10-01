@@ -4,7 +4,8 @@
   <!-- Plain Text Quick Contact Link -->
   <p>📬 <b>Reach me at:</b> <a href="mailto:nawazhisham8@gmail.com">nawazhisham8@gmail.com</a></p>
 </p>
-
+## Tech Stack:
+![Python](https://shields.io) ![C](https://shields.io) ![OpenCV](https://shields.io) ![YOLO](https://shields.io) ![NumPy](https://shields.io) ![Webots Simulator](https://shields.io🤖-blue?style=for-the-badge) ![Git](https://shields.io) 
 ## ✨Cool Projects 
 Done:
 - <a href="https://github.com/hishamnawaz/automated-obstacle-avoider.git"> Automated object detection and obstacle avoidance</a> - A robot which can move and detect objects and obstacles in it's path as it avoids collision during motion
