@@ -6,7 +6,13 @@
 </p>
 
 ## Tech Stack:
-![Python](https://shields.io) ![C](https://shields.io) ![NumPy](https://shields.io) ![OpenCV](https://shields.io) ![YOLOv8](https://shields.io) ![Webots Simulator](https://shields.io🤖-blue?style=for-the-badge) ![Git](https://shields.io)
+![Python](https://shields.io) 
+![C](https://shields.io) 
+![NumPy](https://shields.io) 
+![OpenCV](https://shields.io) 
+![YOLOv8](https://shields.io) 
+![Webots Simulator](https://shields.io🤖-blue?style=for-the-badge) 
+![Git](https://shields.io)
 
 ---
 ## ✨Cool Projects 
