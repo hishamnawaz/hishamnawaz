@@ -6,14 +6,13 @@
 </p>
 
 ## My Contributions
-  <div>
-    <picture>
-      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake-dark.svg">
-      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg">
-      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
-    </picture>
-  </div>
-
+<div>
+  <picture>
+    <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img style="min-width: 100%;" src="https://githubusercontent.com" alt="GitHub Snake">
+  </picture>
+</div>
 
 ## Tech Stack:
 
@@ -39,19 +38,4 @@ Working on:
 
 ## 📬 Reach Me At
 * 📧 **Email:** nawazhisham8@gmail.com
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
--->
