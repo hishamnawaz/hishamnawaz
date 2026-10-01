@@ -5,14 +5,13 @@
   <p>📬 <b>Reach me at:</b> <a href="mailto:nawazhisham8@gmail.com">nawazhisham8@gmail.com</a></p>
 </p>
 
-## 📊 My Contribution Snake
+## My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
   <img alt="github contribution snake zoom" src="https://githubusercontent.com">
 </picture>
 
-## Tech Stack:
 
 ## Tech Stack:
 
