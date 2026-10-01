@@ -6,13 +6,14 @@
 </p>
 
 ## Tech Stack:
-![Python](https://shields.io) 
-![C](https://shields.io) 
-![NumPy](https://shields.io) 
-![OpenCV](https://shields.io) 
-![YOLOv8](https://shields.io) 
-![Webots Simulator](https://shields.io🤖-blue?style=for-the-badge) 
-![Git](https://shields.io)
+
+<p align="left">
+  <img src="https://jsdelivr.net" width="45" height="45" alt="Python" />&nbsp;
+  <img src="https://jsdelivr.net" width="45" height="45" alt="C" />&nbsp;
+  <img src="https://jsdelivr.net" width="45" height="45" alt="NumPy" />&nbsp;
+  <img src="https://jsdelivr.net" width="45" height="45" alt="OpenCV" />&nbsp;
+  <img src="https://jsdelivr.net" width="45" height="45" alt="Git" />
+</p>
 
 ---
 ## ✨Cool Projects 
