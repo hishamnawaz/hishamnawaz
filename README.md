@@ -21,19 +21,19 @@
 ![NumPy](https://shields.io)
 ![OpenCV](https://shields.io)
 ![Git](https://shields.io)
-![Webots](https://shields.io🤖--blue?style=for-the-badge)
+![Webots](https://shields.io)
 
 
 ---
-## ✨Cool Projects 
+## Projects 
 Done:
-- <a href="https://github.com/hishamnawaz/automated-obstacle-avoider.git"> Automated object detection and obstacle avoidance</a> - A robot which can move and detect objects and obstacles in it's path as it avoids collision during motion
-- <a href="https://github.com/hishamnawaz/cv-object-detection.git"> Object detection and video file management</a> - A program to detect objects and obstacles from multiple sources
+- <a href="https://github.com/hishamnawaz/automated-obstacle-avoider.git"> Automated object detection and obstacle avoidance</a> - A robot which can move and detect objects and obstacles in it's path as it avoids collision during motion.
+- <a href="https://github.com/hishamnawaz/Q-BIT.140.git"> An AI-based interactive learning platform for learning quantum algorithms through guided experimentation, verified quantum execution, learner modeling, and adaptive AI feedback.
 
 
 Working on:
 - An LBM model to bring automation to robots
-- Customising a model to detect custom objects
+  
   
 
 ## 📬 Reach Me At
