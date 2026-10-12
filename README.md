@@ -1,26 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Hisham Nawaz</h1>
   <p>Robotics & Computer Vision Enthusiast</p>
-  <img src="https://shields.io" alt="Name Badge">
   <br><br>
   <!-- Plain Text Quick Contact Link -->
   <p>📬 <b>Reach me at:</b> <a href="mailto:nawazhisham8@gmail.com">nawazhisham8@gmail.com</a></p>
 </div>
 
-## My Contributions
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img src="https://githubusercontent.com" alt="GitHub Snake" style="max-width: 100%;">
-  </picture>
-</div>
-
-## Tech Stack:
-
-![Python](https://shields.io) ![C](https://shields.io) ![NumPy](https://shields.io) ![OpenCV](https://shields.io) ![Git](https://shields.io) ![Webots](https://shields.io)
-
----
 
 ## Projects 
 
