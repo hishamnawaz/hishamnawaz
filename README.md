@@ -1,30 +1,24 @@
-<p align="center">
+<div align="center">
   <h1>Hi, I'm Hisham Nawaz</h1>
+  <p>Robotics & Computer Vision Enthusiast</p>
   <img src="https://shields.io" alt="Name Badge">
   <br><br>
-  <span>Robotics & Computer Vision Enthusiast</span>
   <!-- Plain Text Quick Contact Link -->
   <p>📬 <b>Reach me at:</b> <a href="mailto:nawazhisham8@gmail.com">nawazhisham8@gmail.com</a></p>
-</p>
+</div>
 
 ## My Contributions
-<div>
+<div align="center">
   <picture>
-    <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img style="min-width: 100%;" src="https://githubusercontent.com" alt="GitHub Snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img src="https://githubusercontent.com" alt="GitHub Snake" style="max-width: 100%;">
   </picture>
 </div>
 
 ## Tech Stack:
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="OpenCV" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Webots" />
-</p>
+
+![Python](https://shields.io) ![C](https://shields.io) ![NumPy](https://shields.io) ![OpenCV](https://shields.io) ![Git](https://shields.io) ![Webots](https://shields.io)
 
 ---
 
