@@ -8,9 +8,9 @@
 
 
 ## Projects 
-- <a href="https://github.com">QUAD-W</a> - A 4 Wheeled Differential Drive robot which can move around and detect objects and obstacles in it's path.
-- <a href="https://github.com">Automated object detection and obstacle avoidance</a> - A robot which can move and detect objects and obstacles in its path as it avoids collision during motion.
-- <a href="https://github.com">An AI-based interactive learning platform</a> for learning quantum algorithms through guided experimentation, verified quantum execution, learner modeling, and adaptive AI feedback.
+- <a href="https://github.com/hishamnawaz/QUAD-W-.git">QUAD-W</a> - A 4 Wheeled Differential Drive robot which can move around and detect objects and obstacles in it's path.
+- <a href="https://github.com/hishamnawaz/automated-obstacle-avoider.git">Automated object detection and obstacle avoidance</a> - A robot which can move and detect objects and obstacles in its path as it avoids collision during motion.
+- <a href="https://github.com/M10111-A110/Q-BIT.140.git">An AI-based interactive learning platform</a> for learning quantum algorithms through guided experimentation, verified quantum execution, learner modeling, and adaptive AI feedback.
 
 ### Working on:
 - An LBM model to bring automation to robots
